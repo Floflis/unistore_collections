@@ -1,0 +1,8 @@
+chown -h 1000:1000 './collections'
+chmod 0777 './collections'
+/usr/bin/touch -hcmd "2022-12-18 22:59:43.8112197000 -0300" './collections'
+/usr/bin/touch -hcad "2022-12-18 22:59:43.8112197000 -0300" './collections'
+chown -h 1000:1000 './jogos do chaves-chespirito'
+chmod 0777 './jogos do chaves-chespirito'
+/usr/bin/touch -hcmd "2022-12-18 22:59:53.1384563000 -0300" './jogos do chaves-chespirito'
+/usr/bin/touch -hcad "2022-12-18 22:59:53.1384563000 -0300" './jogos do chaves-chespirito'
